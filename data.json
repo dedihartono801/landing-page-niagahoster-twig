@@ -1,0 +1,18 @@
+{
+ "price_bayi":{
+   "none_discount":"19.900",
+   "discount":"14.900"
+ },
+ "price_pelajar":{
+   "none_discount":"46.900",
+   "discount":"23.450"
+ },
+ "price_personal":{
+   "none_discount":"58.900",
+   "discount":"38.900"
+ },
+ "price_bisnis":{
+   "none_discount":"109.900",
+   "discount":"65.900"
+ }
+}

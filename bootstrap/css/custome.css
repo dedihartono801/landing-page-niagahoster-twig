@@ -1,0 +1,353 @@
+body{
+	font-family:NunitoSansRegular,sans-serif;
+	font-size:14px;
+	box-sizing:border-box;
+}
+
+.navbar__subnav{
+	font-size:12px;
+}
+
+.navbar__nav-link{
+	font-weight: 400;
+    transition: all .8s;
+    padding-left: .3rem!important;
+    padding-right: .3rem!important;
+    color:black!important;
+    font-size:16px;
+}
+
+.navbar__nav-item{
+	 padding: 0 7px!important;
+}
+
+.php-text{
+	font-weight: 800;
+	font-family:Montserrat-Bold;
+	font-size:47px;
+	line-height: 64px;
+    margin-bottom: 15px;
+    color:#424954;
+}
+
+.php-description{
+	font-family:Montserrat-Bold;
+	font-size:38px;
+    margin-bottom: 15px;
+    color:#4a5747;
+}
+
+.php-list{
+	font-family:Montserrat-Bold;
+	font-size:20px;
+    margin-bottom: 15px;
+    color:#515c4e;
+}
+
+.php-laravel-text{
+	font-family:Montserrat-Bold;
+	font-size:23px;
+    margin-bottom: 15px;
+    color:#515c4e;
+}
+
+.laravel-list{
+	font-family:Montserrat-Bold;
+	font-size:18px;
+    margin-bottom: 15px;
+    color:#515c4e;
+}
+
+.fa-check-custom{
+	color:#37a816;
+}
+
+.section{
+	padding: 30px 0;
+}
+
+.img-custom{
+	margin-top:35%;
+}
+
+.img-custom-ioncube{
+	margin-top:35%;
+}
+
+.text-zendguard{
+	font-family:Montserrat-Bold;
+	font-size:20px;
+    margin-bottom: 15px;
+    color:#515c4e;
+	margin-top:3%;
+	text-align:right;
+}
+
+.text-hosting{
+	font-weight: 800;
+	font-family:Montserrat-Bold;
+	font-size:35px;
+    color:#424954;
+}
+
+.text-hosting.description{
+	font-weight:100!important;
+	font-size:30px!important;
+}
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+.card-personal{
+	border:solid 1px #307af2;
+}
+.package-title{
+	font-size: 25px;
+	font-weight:600;
+}
+
+.package-price{
+	font-size: 16px;
+}
+
+.card ul li.personal{
+	border:none;
+}
+
+.card ul.package-price{
+	border:none;
+}
+
+.package-title.personal{
+	background: #0791ed;
+	color:#fff;
+}
+
+.package-price.personal{
+	background: #0791ed;
+	color:#f5f5f5;
+}
+
+.package-price.personal-discount{
+	background: #0791ed;
+	color:#fff;
+}
+
+.price-value{
+	font-size:50px !important;
+	font-weight:600;
+}
+
+.price-value-sec{
+	font-weight: 550;
+	font-size:18px;
+	vertical-align: top;
+	margin-top:13px;
+}
+
+.price-value-rp{
+	font-weight: 500;
+	font-size:18px;
+	vertical-align: top;
+	margin-top:13px;
+
+}
+
+.package-price.personal:after {
+    content: "";
+    position: absolute;
+    top: 24px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 75px;
+    height: 1px;
+    background: #fff;
+}
+
+.package-price.bayi:after {
+    content: "";
+    position: absolute;
+    top: 24px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 75px;
+    height: 1px;
+    background: black;
+}
+
+.section-price{
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+.best-seller{
+	z-index: 999999;
+    position: absolute;
+    top: -10px;
+    right:190px;
+
+}
+
+.package-user.personal{
+	background:#0a7dcf;
+	color: #fff;
+}
+
+.package-feature{
+	color:#515c4e;
+}
+
+.package-power{
+	font-weight: 750;
+	font-size:15px;
+}
+
+.package-text-unlimited{
+	font-weight: 750;
+	font-size: 14px;
+}
+
+.btn-package{
+	border-radius: 20px;
+	font-weight: 600;
+}
+
+.btn-package-all{
+	font-weight: 600;
+	border:solid 2px #363636;
+	color:#363636;
+	border-radius: 20px;
+}
+
+.checked{
+	color:#0a7dcf;
+}
+
+.text-php-feature{
+	font-size:27px;
+	color:#363636;
+}
+
+.php-feature-list{
+	font-size:20px;
+	color: #515c4e;
+}
+
+.php-feature-description{
+	color:#515c4e;
+}
+
+.second-table{
+	background-color: rgba(0,0,0,.05);
+}
+
+.php-table-list{
+	margin-left: 30%;
+	color:#515c4e;
+	font-size:16px;
+	font-weight: bold;
+}
+
+.laravel-list-notes{
+	font-family:Montserrat-Bold;
+	font-size:12px;
+    color:#515c4e;
+}
+
+.text-linux{
+	font-size:38px;
+	color:#454545;
+}
+
+.social-media{
+	background:#f2e6e6;
+	height: 100px;
+}
+
+.text-social-media{
+	font-size: 16px;
+}
+
+.list-social-media{
+	margin-left: 40%;
+}
+
+.btn-followers{
+	border:solid 1px #515c4e;
+	width: 60px;
+	height: 30px;
+	color: #515c4e;
+	position: relative;
+	padding: 0px;
+}
+
+
+.btn-followers::before {
+  content: '';
+  position: absolute;
+  visibility: visible;
+  top: 5px;
+  right: 58px;
+  border: 10px solid transparent;
+  border-right: 4px solid #a19999;
+}
+
+.contact-us{
+	background:#498ff2;
+	height: 200px;
+}
+
+.text-contact-us{
+	font-size: 33px;
+	color: #fff;
+}
+
+.btn-livechat{
+	border: solid 2px #fff;
+	color: #fff;
+	border-radius: 25px;
+	width: 200px;
+	height: 50px;
+	font-size: 16px;
+	padding: 0px;
+}
+
+.section-footer{
+	background: #303030;
+}
+
+.footer-title{
+	color: #525252;
+	font-weight: bold;
+}
+
+.footer-list{
+	color: #969696;
+}
+
+.footer-newsletter{
+	border-radius: 25px;
+	height: 50px;
+}
+
+.btn-subscribe{
+	border-radius: 20px;
+	position: absolute;
+	top: 83px;
+	left: 140px;
+}
+
+.text-newsletter{
+	color: #807e7e;
+}
+
+.footer-social-media{
+	margin-top: 28%;
+}
+
+.text-copyright{
+	color: #fff;
+	font-size: 12px;
+}
